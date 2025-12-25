@@ -1,0 +1,1 @@
+export const mobileRegExp = /^(\+91)?[\s]?[6789]\d{4}[\s]?\d{5}$/
